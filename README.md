@@ -3,7 +3,7 @@ Title of Game:
 "Just a Cube"
 
 Description of game:
-You play as a spaceship, avoiding red enemy spaceships as they try to collide into you. You can shoot them, or use speed boosts to escape them, but you must kill 15 to win.
+You play as a spaceship, avoiding red enemy spaceships as they try to collide into you. You can shoot them, or use speed boosts to escape them, but you must kill 15 to win. Luckily your spaceship is very maneuverable, and you have full control of your camera.
 
 Controls:
 W & A to change pitch
